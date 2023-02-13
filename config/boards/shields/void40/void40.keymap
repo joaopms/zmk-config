@@ -20,4 +20,5 @@
                 &kp LCTRL  &kp LGUI     &kp LALT             &kp SPACE  &kp ENTER                                                            
             >;
         };
+    };
 };
